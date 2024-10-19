@@ -1,0 +1,30 @@
+# General Structure :
+
+Title Page: Title, author(s), affiliation, date.
+Abstract: A brief summary of your research (150-250 words).
+Introduction: Background information, research question, and objectives.
+Literature Review: Overview of existing research relevant to your topic.
+Methodology: Description of how you conducted your research.
+Results: Presentation of your findings (use graphs/tables if necessary).
+Discussion: Interpretation of results, implications, and limitations.
+Conclusion: Summary of findings and future research directions.
+References: List of all sources cited in your paper.
+
+title: Enhanced Accuracy in Image Classification Using Ensemble Techniques on DCNNs
+
+1.DCNNs models is helpful in real world datasets.
+2.Reducing complexity of the existing use of these models and still getting better accuracy by refining data pre-processing along with data augmentation.
+3.Exisiting good results are made more remarkable by (point 2)
+4.
+
+Abstract:
+DONE
+
+Introduction:
+(tips for introduction :)
+1.Focus more on the topic that you studied observed through the research i.e data preprocessing and augmentation plays an important role for better accuracy and agree with the statement of     previous work "better accuracy better classification". Also elaborate the ensemble techniques you used for your research and working all of these combined.
+2.Working And Role -> preprocessing, augmentation, ensemble.
+3.Reduced complexity along with statement that no hyper-parameters are tuned.
+
+DONE
+

@@ -1,0 +1,7 @@
+Revised Abstract for thesis:
+
+In recent years, deep convolutional neural networks (DCNNs) have revolutionized the field of image classification. A cornerstone of effective ensemble models is the incorporation of high-performance base learners. Building upon previous research, particularly the study titled "Weighted Ensemble Model for Image Classification," this paper delves deeper into the relationship between base learner accuracy and ensemble performance.
+
+By training multiple state-of-the-art lightweight architectures, including ResNet18, DenseNet121, ShuffleNetV2, MobileNetV2, and EfficientNetB0, using a bagging ensemble technique, we aim to significantly enhance classification accuracy. Our approach involves meticulous data preprocessing and augmentation, tailored to an X-ray image dataset, leading to a substantial improvement in three-class accuracy compared to existing models in the literature.
+
+The results of our experiments demonstrate that effective data handling is not only crucial for improving individual model performance but also plays a pivotal role in amplifying the efficiency of ensemble methods. This research contributes valuable insights into optimizing ensemble techniques for image classification tasks and provides a solid foundation for future explorations in this domain.
